@@ -1,8 +1,7 @@
 # 🛠️ Ryan Lippman
 
 
-Hello! I'm Ryan Lippman. I'm currently a student at the Hackley school, and I'm a multi language developer who loves diving into both creative and technical rabbit holes. I really like cyber security, and understanding complex exploit chains, malware, and vulnerabilities, as well as hardening and protecting systems.
-
+Hello! I'm Ryan Lippman. I'm currently a student at the Hackley School and a multi-language developer who enjoys learning about coding, AI, and debate in my free time. I'm especially interested in cybersecurity, including understanding complex exploit chains, malware, and vulnerabilities, as well as how to harden and protect systems.
 
 ### 🚀 Currently
 
