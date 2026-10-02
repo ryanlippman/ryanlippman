@@ -1,85 +1,108 @@
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00b386&height=220&section=header&text=Ryan%20Lippman&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Security%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Ryan Lippman" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:052e2b,75:065f46,100:00e599&height=260&section=header&text=Ryan%20Lippman&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=developer%20%E2%80%A2%20security%20nerd%20%E2%80%A2%20debater&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Ryan Lippman" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00E599&center=true&vCenter=true&width=640&lines=Multi-language+developer+%F0%9F%92%BB;Digging+into+exploit+chains+%26+malware+%F0%9F%A6%A0;Hardening+systems%2C+one+config+at+a+time+%F0%9F%9B%A1%EF%B8%8F;Studying+for+CompTIA+Security%2B+%F0%9F%93%9A" alt="Typing intro" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00E599&center=true&vCenter=true&multiline=false&width=700&height=45&lines=%3E+breaking+things+to+learn+how+to+protect+them;%3E+exploit+chains+%E2%80%A2+malware+%E2%80%A2+vulnerabilities;%3E+hardening+systems%2C+one+config+at+a+time;%3E+writing+code+in+way+too+many+languages" alt="typing intro" /></a>
 
-<br />
-
-<img src="https://img.shields.io/badge/Hackley_School-Student-1f6feb?style=for-the-badge" alt="Hackley School Student" />
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-e10600?style=for-the-badge" alt="CompTIA Security+ in progress" />
-<a href="mailto:rlippman@students.hackleyschool.org"><img src="https://img.shields.io/badge/Email-Say_Hi-00b386?style=for-the-badge" alt="Email" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Hackley_School-Student-0f172a?style=for-the-badge&labelColor=00e599&logoColor=0f172a" alt="Hackley School" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0f172a?style=for-the-badge&labelColor=00e599" alt="Focus: Cybersecurity" />
+  <a href="mailto:rlippman@students.hackleyschool.org"><img src="https://img.shields.io/badge/Inbox-Open-0f172a?style=for-the-badge&labelColor=00e599" alt="Email me" /></a>
+</p>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e599,100:0d1117&height=2" width="100%" alt="" />
 
-### 👋 About Me
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+## ⚡ `$ neofetch`
 
-```bash
-ryan@hackley:~$ whoami
-> Ryan Lippman — student at the Hackley School & multi-language developer
-
-ryan@hackley:~$ cat interests.txt
-> coding · AI · debate · cybersecurity
-
-ryan@hackley:~$ grep -i "obsessed" brain.log
-> exploit chains, malware, vulnerabilities — and how to harden systems against them
+```text
+       ▄▄▄▄▄▄▄           ryan@hackley
+     ▄█▀     ▀█▄         ──────────────────────────────────────
+     ██       ██         Name      Ryan Lippman
+     ██       ██         School    The Hackley School
+   ▄▄██▄▄▄▄▄▄▄██▄▄       Role      Multi-language developer
+   ███████████████       Focus     Cybersecurity
+   ██████▀ ▀██████       Studying  Exploit chains · malware · vulns
+   ██████▄ ▄██████       Building  Hardened, well-protected systems
+   ███████ ███████       Hobbies   Coding · AI · Debate
+   ███████████████       Status    Procrastinating (professionally)
+   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀       Uptime    still learning
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e599,100:0d1117&height=2" width="100%" alt="" />
 
-### 🔭 What I'm Into
+<!-- ═══════════════════════════  INTERESTS  ═══════════════════════════ -->
+## 🎯 What I'm Into
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🔐 Offensive Security</h3>
-      Understanding complex exploit chains, malware, and vulnerabilities
+    <td align="center" width="25%" valign="top">
+      <br />
+      <h1>🔓</h1>
+      <b>Offense</b><br />
+      <sub>Taking apart exploit chains, malware &amp; vulnerabilities to see how they really work</sub>
+      <br /><br />
     </td>
-    <td align="center" width="50%">
-      <h3>🛡️ Defense</h3>
-      Hardening and protecting systems
+    <td align="center" width="25%" valign="top">
+      <br />
+      <h1>🛡️</h1>
+      <b>Defense</b><br />
+      <sub>Hardening and locking down systems so those attacks don't land</sub>
+      <br /><br />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤖 AI</h3>
-      Learning how it works and what it can do
+    <td align="center" width="25%" valign="top">
+      <br />
+      <h1>🤖</h1>
+      <b>AI</b><br />
+      <sub>Exploring how models work and what you can build with them</sub>
+      <br /><br />
     </td>
-    <td align="center" width="50%">
-      <h3>🗣️ Debate</h3>
-      Arguing things out in my free time
+    <td align="center" width="25%" valign="top">
+      <br />
+      <h1>🗣️</h1>
+      <b>Debate</b><br />
+      <sub>Building arguments, finding the holes in other people's</sub>
+      <br /><br />
     </td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e599,100:0d1117&height=2" width="100%" alt="" />
 
-### 🚀 Currently
-
-| 🔧 Working on | 📚 Learning |
-| :---: | :---: |
-| **Procrastinating** 🫠 | **CompTIA Security+** |
-
----
-
-### 🧰 Tech I Use
+<!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css,linux,github&perline=7&theme=dark" alt="JavaScript, Python, Java, HTML, CSS, Linux, GitHub" />
+<img src="https://skillicons.dev/icons?i=js,py,java,html,css&perline=5&theme=dark" alt="JavaScript, Python, Java, HTML, CSS" />
+<br />
+<sub><code>languages</code></sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=linux,github&perline=2&theme=dark" alt="Linux, GitHub" />
+<br />
+<sub><code>environment</code></sub>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e599,100:0d1117&height=2" width="100%" alt="" />
 
-### 📫 How to Reach Me
+<!-- ═══════════════════════════  CONTACT  ═══════════════════════════ -->
+## 📡 Get In Touch
 
 <div align="center">
 
-<a href="mailto:rlippman@students.hackleyschool.org"><img src="https://img.shields.io/badge/rlippman%40students.hackleyschool.org-0d1117?style=for-the-badge&labelColor=00b386" alt="rlippman@students.hackleyschool.org" /></a>
+<a href="mailto:rlippman@students.hackleyschool.org">
+  <img src="https://img.shields.io/badge/✉_rlippman@students.hackleyschool.org-0f172a?style=for-the-badge&logoColor=00e599" alt="rlippman@students.hackleyschool.org" />
+</a>
+
+<br /><br />
+
+<sub><i>"To protect a system, you first have to understand how it breaks."</i></sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b386,50:0f3d3e,100:0d1117&height=120&section=footer" width="100%" alt="" />
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e599,25:065f46,60:052e2b,100:020617&height=140&section=footer" width="100%" alt="" />
