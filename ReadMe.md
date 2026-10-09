@@ -57,9 +57,6 @@
 </a>
 
 <br /><br />
-
-<sub><i>"To protect a system, you first have to understand how it breaks."</i></sub>
-
 </div>
 
 <!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
