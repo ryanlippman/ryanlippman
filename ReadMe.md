@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:052e2b,75:065f46,100:00e599&height=260&section=header&text=Ryan%20Lippman&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=developer%20%E2%80%A2%20security%20%E2%80%A2%20debater&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Ryan Lippman" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00E599&center=true&vCenter=true&multiline=false&width=700&height=45&lines=%3E+breaking+things+to+learn+how+to+protect+them;%3E+exploit+chains+%E2%80%A2+malware+%E2%80%A2+vulnerabilities;%3E+hardening+systems%2C+one+config+at+a+time;%3E+writing+code+in+way+too+many+languages" alt="typing intro" /></a>
-
 <p>
   <img src="https://img.shields.io/badge/Hackley_School-Student-0f172a?style=for-the-badge&labelColor=00e599&logoColor=0f172a" alt="Hackley School" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-0f172a?style=for-the-badge&labelColor=00e599" alt="Focus: Cybersecurity" />
