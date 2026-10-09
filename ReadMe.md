@@ -30,46 +30,6 @@
    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀       Uptime    still learning
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e599,100:0d1117&height=2" width="100%" alt="" />
-
-<!-- ═══════════════════════════  INTERESTS  ═══════════════════════════ -->
-## 🎯 What I'm Into
-
-<table>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <br />
-      <h1>🔓</h1>
-      <b>Offense</b><br />
-      <sub>Taking apart exploit chains, malware &amp; vulnerabilities to see how they really work</sub>
-      <br /><br />
-    </td>
-    <td align="center" width="25%" valign="top">
-      <br />
-      <h1>🛡️</h1>
-      <b>Defense</b><br />
-      <sub>Hardening and locking down systems so those attacks don't land</sub>
-      <br /><br />
-    </td>
-    <td align="center" width="25%" valign="top">
-      <br />
-      <h1>🤖</h1>
-      <b>AI</b><br />
-      <sub>Exploring how models work and what you can build with them</sub>
-      <br /><br />
-    </td>
-    <td align="center" width="25%" valign="top">
-      <br />
-      <h1>🗣️</h1>
-      <b>Debate</b><br />
-      <sub>Building arguments, finding the holes in other people's</sub>
-      <br /><br />
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00e599,100:0d1117&height=2" width="100%" alt="" />
-
 <!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
 ## 🧰 Tech Stack
 
